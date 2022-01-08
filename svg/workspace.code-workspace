@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "cars",
+			"path": ".."
+		},
+		{
+			"name": "jQuery-rwdImageMaps-master",
+			"path": "..\\..\\..\\Downloads\\jQuery-rwdImageMaps-master\\jQuery-rwdImageMaps-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "cars"
+	}
+}
