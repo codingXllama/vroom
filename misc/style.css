@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    font-family: 'Roboto Slab', serif;
+    text-align: center;  
+    font-weight: bold;
+    font-size: 5vw;
+    background-color: #181818;
+    color: rgb(255, 255, 255);
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    align-content: center;
+  }
+  
+
+  
+  img[usemap] {
+    border: none;
+    height: auto;
+    max-width: 100%;
+    width: auto;
+  }  
+
+  area {
+   fill:red
+  }  
+  
+  
+  p {
+    margin: 0;  
+  }
+
+  .problem{
+      background-color: red;
+  }

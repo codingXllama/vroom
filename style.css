@@ -1,35 +1,26 @@
-body {
-    display: flex;
-    font-family: 'Roboto Slab', serif;
-    text-align: center;  
-    font-weight: bold;
-    font-size: 5vw;
-    background-color: #181818;
-    color: rgb(255, 255, 255);
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    align-content: center;
-  }
-  
+#base {
+  position: absolute;
+  width: 620px;
+  height: 434px;
+}
 
-  
-  img[usemap] {
-    border: none;
-    height: auto;
-    max-width: 100%;
-    width: auto;
-  }  
+#steering {
+  /* 5362 2 */
 
-  area {
-   fill:red
-  }  
-  
-  
-  p {
-    margin: 0;  
-  }
+  position: absolute;
+  width: 159px;
+  height: 157px;
+  left: 90px;
+  top: 129px;
+  border-radius: 100px;
+  /* border: 1px solid red; */
+}
 
-  .problem{
-      background-color: red;
-  }
+/* #steering_red {
+  position: absolute;
+  width: 163px;
+  height: 157px;
+  left: 90px;
+  top: 129px;
+  border-radius: 100px;
+} */
